@@ -1,0 +1,7 @@
+node_modules
+files
+*.traineddata
+*.png
+
+package-lock.json
+yarn.lock
